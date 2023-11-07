@@ -372,6 +372,7 @@ nav a:hover {
 }
 nav ul li a {
   text-transform: uppercase;
+  text-align: center;
 }
 button {
   float: right;
