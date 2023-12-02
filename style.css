@@ -380,6 +380,10 @@ anchor {
   right: 10px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+a {
+  color: #ffffff;
+  text-decoration: none;
+}
 .both-playlists {
   clear: both;
   display: grid;
